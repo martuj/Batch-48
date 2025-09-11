@@ -351,7 +351,7 @@ git --version
 mkdir hello-world
 cd hello-world
 git init
-wget https://github.com/martuj/devops-hello-world.git
+git pull https://github.com/martuj/devops-hello-world.git
 ls
 
 # Check the email and user name configured.
